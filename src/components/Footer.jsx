@@ -83,7 +83,7 @@ const Footer = () => {
   return (
     <Container>
       <Left>
-        <Logo>LAMA.</Logo>
+        <Logo>SHOPNOW</Logo>
         <Desc>
           hey boi kjhc jhjkcljschsdhcg jdgcusdcg jdsgcuysdgcus iuhdicsgc
           jhgsdcuysdgcouyc jgcusy hjdgcucg jdcbshgc jhdgcusgc jgcusygc ujgcuygcb

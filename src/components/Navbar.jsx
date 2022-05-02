@@ -72,7 +72,7 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>SAMA.</Logo>
+          <Logo>SHOPNOW.</Logo>
         </Center>
         <Right>
           <MenuItem>REGISTER</MenuItem>
